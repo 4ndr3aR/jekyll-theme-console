@@ -3,11 +3,27 @@
 #google_analytics: UA-NNNNNNNN-N
 
 #header_pages:
-#  - index.md
-#  - about.md
+  #- head.html
+  #- index.md
+  #- about.md
+  #- header.html
+  #- google-analytics.html
+  #- footer.html
+
+#jekyll:
+#  relax: true
+
+
+
+
 
 #footer: 'follow us on <a href="https://twitter.com/">twitter</a>'
 
+#relative_url: .
+#baseurl: http://deeplearning.ge.imati.cnr.it/hardware/
+baseurl: /hardware/
+
+style: dark
 #style: light # dark (default) or light
 #listen_for_clients_preferred_style: true # true or false (default)
 
