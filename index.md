@@ -30,7 +30,7 @@ permalink: /
 | ---  | ---   | ---   | ---   |
 | [Robosense RS-HELIOS 1610](https://www.roscomponents.com/en/lidar-laser-scanner/344-rs-helios-1610.html) {::nomarkdown}<img width=150/>{:/} | 32 beams {::nomarkdown}<img width=50/>{:/} | 3.6k EUR | ![img]({{"assets/images/rs-helios-1610.jpg" | resize: "150x150>"}}) |
 | [Robosense RS-Ruby-80](https://www.roscomponents.com/en/lidar-laser-scanner/343-rs-ruby-80.html) | 80 beams | 13k EUR (early bird) | ![img]({{"assets/images/rs-ruby-80.jpg" | resize: "150x150>"}}) |
-| [Robosense RS-Ruby Plus](https://www.roscomponents.com/en/lidar-laser-scanner/342-rs-ruby-plus.html) | 128 beams | ??k EUR (prob. ~30k) | ![img]({{"assets/images/rs-ruby-plus.jpg" | resize: "150x150>"}}) |
+| [Robosense RS-Ruby Plus](https://www.roscomponents.com/en/lidar-laser-scanner/342-rs-ruby-plus.html) | 128 beams | ??k EUR (prob. ~60k) | ![img]({{"assets/images/rs-ruby-plus.jpg" | resize: "150x150>"}}) |
 | [Robosense RS-LiDAR-M1](https://www.roscomponents.com/en/lidar-laser-scanner/268-rs-lidar-m1.html) | front lidar | 8.5k EUR | ![img]({{"assets/images/RS-LiDAR-M1.jpg" | resize: "150x150>"}}) |
 | ---  | ---   | ---   |
 
@@ -42,7 +42,7 @@ permalink: /
 | Name | Bands | Price | Image |
 | ---  | ---   | ---   | ---   |
 | [Specim IQ](https://www.specim.com/iq/) {::nomarkdown}<img width=330/>{:/} | 400-1000 nm - 204 bands {::nomarkdown}<img width=50/>{:/}| 20k USD {::nomarkdown}<img width=100/>{:/} | ![img]({{"assets/images/specim-iq.jpg" | resize: "150x150>"}}) |
-| [Monarch II](https://www.unispectral.com/product/monarch-ii-camera/)[ - Mobile Multispectral Camera](https://www.youtube.com/watch?v=tSBAXayAJwk) | 400-1000 nm - 204 bands | ??k USD | ![img]({{"assets/images/monarch-II.jpg" | resize: "150x150>"}}) |
+| [Monarch II](https://www.unispectral.com/product/monarch-ii-camera/)[ - Mobile Multispectral Camera](https://www.youtube.com/watch?v=tSBAXayAJwk) | 400-1000 nm - 204 bands | 3,845 USD | ![img]({{"assets/images/monarch-II.jpg" | resize: "150x150>"}}) |
 | ---  | ---   | ---   | ---   |
 
 
@@ -63,8 +63,8 @@ permalink: /
 
 | Name | Price | Image |
 | ---  | ---   | ---   |
-| [Zivid Two L100](https://www.zivid.com/zivid-two-l100) {::nomarkdown}<img width=390/>{:/} | ?? k EUR {::nomarkdown}<img width=100/>{:/} | ![img]({{"assets/images/zivid-two.jpg" | resize: "150x150>"}}) |
-| [Zivid One+ Academics Kit](https://shop.zivid.com/products/zivid-one-academics-kit) | 9,5k EUR | ![img]({{"assets/images/zivid-one-academic-kit.jpg" | resize: "150x150>"}}) |
+| [Zivid Two L100](https://www.zivid.com/zivid-two-l100) {::nomarkdown}<img width=390/>{:/} | 7.5 k EUR {::nomarkdown}<img width=100/>{:/} | ![img]({{"assets/images/zivid-two.jpg" | resize: "150x150>"}}) |
+| [Zivid One+ Academics Kit](https://shop.zivid.com/products/zivid-one-academics-kit) | 9.5k EUR | ![img]({{"assets/images/zivid-one-academic-kit.jpg" | resize: "150x150>"}}) |
 | ---  | ---   | ---   |
 
 
