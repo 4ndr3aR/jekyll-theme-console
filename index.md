@@ -33,7 +33,12 @@ permalink: /
 | [Robosense RS-Ruby-80](https://www.roscomponents.com/en/lidar-laser-scanner/343-rs-ruby-80.html) | 80 beams | 13k EUR (early bird - upd. 21k EUR VAT incl. on [GenerationRobots](https://www.generationrobots.com/en/403727-robosense-rs-ruby-lite-3d-laser-range-finder-lidar.html)) | ![img]({{"assets/images/rs-ruby-80.jpg" | resize: "150x150>"}}) |
 | [Robosense RS-Ruby Plus](https://www.roscomponents.com/en/lidar-laser-scanner/342-rs-ruby-plus.html) | 128 beams | 60k EUR (upd. 36k EUR VAT incl. on [RobotShop](https://eu.robotshop.com/products/robosense-rs-ruby) and 30k EUR VAT incl. on [GenerationRobots](https://www.generationrobots.com/en/403579-rs-ruby-robosense-3d-laser-rangefinder-lidar.html)) | ![img]({{"assets/images/rs-ruby-plus.jpg" | resize: "150x150>"}}) |
 | [Robosense RS-LiDAR-M1](https://www.roscomponents.com/en/lidar-laser-scanner/268-rs-lidar-m1.html) | front lidar | 8.5k EUR | ![img]({{"assets/images/RS-LiDAR-M1.jpg" | resize: "150x150>"}}) |
-| ---  | ---   | ---   |
+| ---  | ---   | ---   | ---   |
+
+
+{% comment %}
+<!-- [ - Mobile Multispectral Camera](https://www.youtube.com/watch?v=tSBAXayAJwk) -->
+{% endcomment %}
 
 
 ## Hyperspectral/Multispectral Camera
@@ -42,8 +47,9 @@ permalink: /
 
 | Name | Bands | Price | Image |
 | ---  | ---   | ---   | ---   |
-| [Specim IQ](https://www.specim.com/iq/) {::nomarkdown}<img width=330/>{:/} | 400-1000 nm - 204 bands {::nomarkdown}<img width=50/>{:/}| [20k USD](https://www.cbrnetechindex.com/Print/6128/specim/specim-iq) {::nomarkdown}<img width=100/>{:/} | ![img]({{"assets/images/specim-iq.jpg" | resize: "150x150>"}}) |
-| [Monarch II](https://www.unispectral.com/product/monarch-ii-camera/)[ - Mobile Multispectral Camera](https://www.youtube.com/watch?v=tSBAXayAJwk) | 400-1000 nm - 204 bands | 3,845 USD | ![img]({{"assets/images/monarch-II.jpg" | resize: "150x150>"}}) |
+| [Specim IQ](https://www.specim.com/iq/) {::nomarkdown}<img width=50/>{:/} | 400-1000 nm - 204 bands {::nomarkdown}<img width=50/>{:/}| [20k USD](https://www.cbrnetechindex.com/Print/6128/specim/specim-iq) {::nomarkdown}<img width=100/>{:/} | ![img]({{"assets/images/specim-iq.jpg" | resize: "150x150>"}}) |
+| [Resonon Pika L](https://resonon.com/hyperspectral-cameras) {::nomarkdown}<img width=50/>{:/} | 400-1000 nm - 281 bands {::nomarkdown}<img width=50/>{:/}| [15k USD](https://techfee.fau.edu/approvedproposals/Download.cfm?sid=3135&pid=1931) {::nomarkdown}<img width=100/>{:/} | ![img]({{"assets/images/resonon-pika-l.webp" | resize: "150x150>"}}) |
+| [Monarch II](https://www.unispectral.com/product/monarch-ii-camera/) {::nomarkdown}<br>{:/}[Mobile Multispectral Camera](https://www.youtube.com/watch?v=tSBAXayAJwk) {::nomarkdown}<img width=50/>{:/} | 400-1000 nm - 204 bands {::nomarkdown}<img width=50/>{:/}| 4k USD {::nomarkdown}<img width=100/>{:/} | ![img]({{"assets/images/monarch-II.jpg" | resize: "150x150>"}}) |
 | ---  | ---   | ---   | ---   |
 
 
